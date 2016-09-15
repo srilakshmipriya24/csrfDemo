@@ -7,6 +7,6 @@
 <title>ZOHO ACCOUNTS</title>
 </head>
 <body>
-		Password successFully reset......
+		Password successfully reset......
 </body>
 </html>
